@@ -1,0 +1,13 @@
+D:\外教作业\Zhou jiafeng-0525AllLabApp\LabAss3\bin\Debug\LabAss3.exe.config
+D:\外教作业\Zhou jiafeng-0525AllLabApp\LabAss3\bin\Debug\LabAss3.exe
+D:\外教作业\Zhou jiafeng-0525AllLabApp\LabAss3\bin\Debug\LabAss3.pdb
+D:\外教作业\Zhou jiafeng-0525AllLabApp\LabAss3\obj\Debug\LabAss3.csproj.AssemblyReference.cache
+D:\外教作业\Zhou jiafeng-0525AllLabApp\LabAss3\obj\Debug\LabAss3.csproj.SuggestedBindingRedirects.cache
+D:\外教作业\Zhou jiafeng-0525AllLabApp\LabAss3\obj\Debug\LabAss3.frmCustomerPreview.resources
+D:\外教作业\Zhou jiafeng-0525AllLabApp\LabAss3\obj\Debug\LabAss3.Properties.Resources.resources
+D:\外教作业\Zhou jiafeng-0525AllLabApp\LabAss3\obj\Debug\LabAss3.csproj.GenerateResource.cache
+D:\外教作业\Zhou jiafeng-0525AllLabApp\LabAss3\obj\Debug\LabAss3.csproj.CoreCompileInputs.cache
+D:\外教作业\Zhou jiafeng-0525AllLabApp\LabAss3\obj\Debug\LabAss3.exe
+D:\外教作业\Zhou jiafeng-0525AllLabApp\LabAss3\obj\Debug\LabAss3.pdb
+D:\外教作业\Zhou jiafeng-0525AllLabApp\LabAss3\obj\Debug\LabAss3.MDIParent1.resources
+D:\外教作业\Zhou jiafeng-0525AllLabApp\LabAss3\obj\Debug\LabAss3.frmCustomerDataEntry.resources
