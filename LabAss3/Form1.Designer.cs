@@ -227,6 +227,7 @@
             this.dtgCustomer.RowTemplate.Height = 27;
             this.dtgCustomer.Size = new System.Drawing.Size(819, 424);
             this.dtgCustomer.TabIndex = 14;
+            this.dtgCustomer.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dtgCustomer_CellClick);
             this.dtgCustomer.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dtgCustomer_CellContentClick);
             // 
             // btnUpdate

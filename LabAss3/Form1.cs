@@ -183,5 +183,11 @@ namespace LabAss3
 
         }
 
+        private void dtgCustomer_CellClick(object sender, DataGridViewCellEventArgs e)
+        {
+            clearForm();
+            string id = dtgCustomer.Rows[e.RowIndex].Cells[0].Value.ToString();
+            displayCustomer(id);
+        }
     }
 }
