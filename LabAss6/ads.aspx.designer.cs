@@ -11,6 +11,7 @@ namespace LabAss6
 {
 
 
+
     public partial class ads
     {
 

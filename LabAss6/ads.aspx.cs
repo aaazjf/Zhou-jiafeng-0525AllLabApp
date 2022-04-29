@@ -9,6 +9,7 @@ namespace LabAss6
 {
     public partial class ads : System.Web.UI.Page
     {
+
         protected void Page_Load(object sender, EventArgs e)
         {
 
