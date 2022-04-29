@@ -23,9 +23,6 @@
             <br />
             <asp:AdRotator ID="AdRotator2" runat="server" AdvertisementFile="~/App_Data/AdListXMLFile.xml" KeywordFilter="ads1" Height="200px" Width="800px" />
             <br />
-            <br />
-            <br />
-            <br />
         </div>
         <div>
             <h2>This is my advertisemet page</h2>
