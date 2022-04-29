@@ -19,7 +19,7 @@ namespace LabAss5
 
         protected void btnSubmit_Click(object sender, EventArgs e)
         {
-            SqlConnection conn = new SqlConnection(ConfigurationManager.ConnectionStrings["SampleDatabaseConnectionString"].ConnectionString);
+            SqlConnection conn = new SqlConnection(ConfigurationManager.ConnectionStrings["simpleDatabaseConnectionString1"].ConnectionString);
             conn.Open();
             string querystring = "Select Username,Password from Logon where Username='" + txtUsername.Text + "'";
 
