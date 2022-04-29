@@ -23,7 +23,7 @@
 		<Width>200</Width>
 		<Height>150</Height>
 		<NavigateUrl>http://www.ad6.com</NavigateUrl>
-		<AlternateText>This is ad4</AlternateText>
+		<AlternateText>This is ad6</AlternateText>
 		<Impressions>25</Impressions>
 		<Keyword>ads2</Keyword>
 	</Ad>
@@ -41,12 +41,12 @@
 		<Width>200</Width>
 		<Height>150</Height>
 		<NavigateUrl>http://www.ad7.com</NavigateUrl>
-		<AlternateText>This is ad7</AlternateText>
+		<AlternateText>This is ad8</AlternateText>
 		<Impressions>25</Impressions>
 		<Keyword>ads2</Keyword>
 	</Ad>
 	<Ad>
-		<ImageUrl>~/ads/BannerAd1.jpg</ImageUrl>
+		<ImageUrl>~/ads/BannerAd1.git</ImageUrl>
 		<Width>200</Width>
 		<Height>150</Height>
 		<NavigateUrl>http://www.ad4.com</NavigateUrl>
@@ -55,7 +55,7 @@
 		<Keyword>ads1</Keyword>
 	</Ad>
 	<Ad>
-		<ImageUrl>~/ads/BannerAd2.jpg</ImageUrl>
+		<ImageUrl>~/ads/BannerAd2.git</ImageUrl>
 		<Width>200</Width>
 		<Height>150</Height>
 		<NavigateUrl>http://www.ad4.com</NavigateUrl>
@@ -64,7 +64,7 @@
 		<Keyword>ads1</Keyword>
 	</Ad>
 	<Ad>
-		<ImageUrl>~/ads/BannerAd3.jpg</ImageUrl>
+		<ImageUrl>~/ads/BannerAd3.git</ImageUrl>
 		<Width>200</Width>
 		<Height>150</Height>
 		<NavigateUrl>http://www.ad4.com</NavigateUrl>
